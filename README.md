@@ -61,3 +61,12 @@ This project is designed for beginners who want to:
 Improve JavaScript logic building
 Practice real-world cart calculations
 Understand how e-commerce price systems work
+
+-----
+ Future Improvements
+Add dynamic product adding
+Add quantity increase/decrease buttons
+Store cart in Local Storage
+Add remove product feature
+Convert to React Version
+Improve UI Design
